@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"os"
 )
 
 const (
@@ -19,7 +20,7 @@ type CLI struct {
 // CLI structure as pointer receiver
 func (c *CLI) Run(args []string) int {
 	var version bool
-	flags := flag.NewFlagSet("awesome-cli", flag.ContinueOnError)
+	flags := flag.NewFlagSet(os.Args[0], flag.ContinueOnError)
 	flags.SetOutput(c.errStream)
 	flags.BoolVar(&version, "version", false, "Print version information and quit")
 
