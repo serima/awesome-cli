@@ -5,3 +5,12 @@
 # Ref
 
 * http://deeeet.com/writing/2014/12/18/golang-cli-test/
+
+# Note
+
+```
+% ./awesome-cli --help
+Usage of ./awesome-cli:
+  -version
+        Print version information and quit
+```
