@@ -5,6 +5,8 @@
 # Ref
 
 * http://deeeet.com/writing/2014/12/18/golang-cli-test/
+* https://skatsuta.github.io/2015/12/29/value-receiver-pointer-receiver/
+* http://qiita.com/yuya_takeyama/items/c4211fa77488cb6915ec
 
 # Note
 
