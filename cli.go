@@ -33,7 +33,7 @@ func (c *CLI) Run(args []string) int {
 		return ExitCodeOK
 	}
 
-	fmt.Fprint(c.outStream, "Do awesome workn\n")
+	fmt.Fprint(c.outStream, "Do awesome working\n")
 
 	return ExitCodeOK
 
