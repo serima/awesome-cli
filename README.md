@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/serima/awesome-cli.svg?branch=master)](https://travis-ci.org/serima/awesome-cli) [![Coverage Status](https://coveralls.io/repos/github/serima/go-practice-awesome-cli/badge.svg?branch=master)](https://coveralls.io/github/serima/go-practice-awesome-cli?branch=master)
+[![Build Status](https://travis-ci.org/serima/go-practice-awesome-cli.svg?branch=master)](https://travis-ci.org/serima/go-practice-awesome-cli) [![Coverage Status](https://coveralls.io/repos/github/serima/go-practice-awesome-cli/badge.svg?branch=master)](https://coveralls.io/github/serima/go-practice-awesome-cli?branch=master)
 
 # golang practice
 
